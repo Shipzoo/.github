@@ -1,5 +1,7 @@
-## Hi there 👋
+## Shipzoo
 
+
+Shipzoo is an platform that you can manage all your ecommerce from amazon, ebay etc.
 <!--
 
 **Here are some ideas to get you started:**
